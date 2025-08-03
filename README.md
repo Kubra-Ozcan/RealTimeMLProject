@@ -110,40 +110,83 @@ Aşağıda YENİLİKÇİLER takımının değerli üyelerini ve iletişim bilgil
 
 @**Uygulama URL'si:** [TechNews Canlı Uygulama URL'si ](https://yzta-2025-grup-92.vercel.app/#)
 
+
+
+### Kullanılan Teknolojiler
+
+<table>
+  <thead>
+    <tr>
+      <th>Katman</th>
+      <th>Teknoloji</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Frontend</td>
+      <td>React (Next.js)</td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>Python (FastAPI)</td>
+    </tr>
+    <tr>
+      <td>Veritabanı</td>
+      <td>PostgreSQL</td>
+    </tr>
+    <tr>
+      <td>Ön Bellek</td>
+      <td>Redis</td>
+    </tr>
+    <tr>
+      <td>Görev Kuyruğu</td>
+      <td>Celery</td>
+    </tr>
+    <tr>
+      <td>Yapay Zekâ</td>
+      <td>Gemini AI, OpenAI, NLP</td>
+    </tr>
+    <tr>
+      <td>E-posta</td>
+      <td>SendGrid</td>
+    </tr>
+    <tr>
+      <td>Hosting</td>
+      <td>AWS / GCP</td>
+    </tr>
+  </tbody>
+</table>
+
+### Risk Analizi
+<table>
+  <thead>
+    <tr>
+      <th>Risk</th>
+      <th>Önlem</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AI içeriği hatalı olabilir</td>
+      <td>Kaynak gösterimi, kullanıcı geri bildirimi</td>
+    </tr>
+    <tr>
+      <td>API bağımlılıkları</td>
+      <td>Çoklu kaynak, fallback sistemler</td>
+    </tr>
+    <tr>
+      <td>Performans sorunları</td>
+      <td>Ölçeklenebilir mimari, önbellekleme</td>
+    </tr>
+    <tr>
+      <td>Kullanıcı terk oranı</td>
+      <td>Kişiselleştirme, değer temelli içerik</td>
+    </tr>
+  </tbody>
+</table>
+
+
 <details>
-
-
-  <details>
-  <summary><b>Key Features</b></summary>
-
-| Feature                    | Description                                                   |
-|----------------------------|---------------------------------------------------------------|
-| AI-Powered Research        | Trend analysis, social signal monitoring, content scoring     |
-| Smart Newsletter           | Weekly curated content based on user interests                |
-| Microlearning Modules      | 5–15 minute practical mini-courses including code             |
-| Audio Content Support      | Natural voice narration via Gemini AI (Text-to-Speech)        |
-| Personalization            | Preferences for interests, delivery frequency, content depth  |
-| Content Recommendation Engine | Suggestions for new courses/newsletters based on reading habits |
-| Mobile-Friendly Interface  | React-based responsive design, PWA compatibility              |
-
-</details>
-
-<details>
-  <summary><b>Öne Çıkan Özellikler</b></summary>
-
-| Özellik                    | Açıklama                                                       |
-|----------------------------|-----------------------------------------------------------------|
-| AI destekli araştırma       | Trend analizleri, sosyal sinyal kontrolü, içerik puanlama       |
-| Akıllı bülten              | Haftalık olarak ilgi alanına göre kürate edilmiş içerik         |
-| Mikro-öğrenme modülleri    | 5–15 dakikalık, kod içeren, pratik odaklı mini kurslar          |
-| Sesli içerik desteği       | Gemini AI ile doğal sesli anlatım (TTS)                         |
-| Kişiselleştirme            | İlgi alanı, teslimat sıklığı, içerik derinliği tercihleri       |
-| İçerik öneri motoru        | Okuma alışkanlığına göre yeni kurs/bülten önerisi               |
-| Mobil uyumlu arayüz        | React tabanlı responsive tasarım, PWA uyumluluğu                 |
-
-</details>
-
-
 
   <summary><b>TechNews App  (Description)</b></summary>
 
@@ -1031,6 +1074,5 @@ Comprehensive support options, a streamlined user interface, and a robust backen
   With this sprint, TechNews has transitioned from a concept to a functional, user-ready digital product.  
   Our core mission—facilitating learning, enabling rapid tracking of the latest developments, and simplifying content overload to guide users—has been effectively realized in the application.  
   Comprehensive support options, a streamlined user interface, and a robust backend architecture provide a strong foundation for TechNews’ continued growth and sustainability.
-
 
 
