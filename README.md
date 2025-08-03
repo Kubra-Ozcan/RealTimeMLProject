@@ -39,8 +39,8 @@ Aşağıda YENİLİKÇİLER takımının değerli üyelerini ve iletişim bilgil
   }
 
   th {
-    background-color: #2c3e50; /* Koyu mavi */
-    color: white; /* Yazı rengini beyaz yapın */
+    background-color: #2c3e50; 
+    color: white; 
   }
 
   img {
@@ -64,7 +64,7 @@ Aşağıda YENİLİKÇİLER takımının değerli üyelerini ve iletişim bilgil
   <tbody>
     >
     <tr>
-      <td><img src="./assets/fatih_image.jpeg" alt="Furkan ÖZTÜRK" /></td>
+      <td><img src="./assets/fatih_image.jpeg" alt="Furkan ÖZTÜRK" width="100" /></td>
       <td>Furkan ÖZTÜRK</td>
       <td>Scrum Master</td>
       <td><a href="https://www.linkedin.com/in/furkan-ozturk06/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
@@ -72,7 +72,7 @@ Aşağıda YENİLİKÇİLER takımının değerli üyelerini ve iletişim bilgil
       <td><a href="[Furkan ÖZTÜRK Kişisel Web URL'si]" target="_blank"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/Furkan_image.jpeg" alt="Fatih Emre ERTEKİN" /></td>
+      <td><img src="./assets/Furkan_image.jpeg" alt="Fatih Emre ERTEKİN" width="100" /></td>
       <td>Fatih Emre ERTEKİN</td>
       <td>Product Owner</td>
       <td><a href="https://www.linkedin.com/in/fatih-emre-ertekin-199283191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
@@ -80,7 +80,7 @@ Aşağıda YENİLİKÇİLER takımının değerli üyelerini ve iletişim bilgil
       <td><a href="[Fatih Emre ERTEKİN Kişisel Web URL'si]" target="_blank"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/Kubra.jpg" alt="Kübra ÖZCAN" /></td>
+      <td><img src="./assets/Kubra.jpg" alt="Kübra ÖZCAN"  width="100" /></td>
       <td>Kübra ÖZCAN</td>
       <td>Developer</td>
       <td><a href="https://www.linkedin.com/in/kubra-ozcan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
@@ -89,7 +89,7 @@ Aşağıda YENİLİKÇİLER takımının değerli üyelerini ve iletişim bilgil
     </tr>
     </tr>
       <tr>
-      <td><img src="./assets/app_logo.png" alt="Emine ÇAKAR" /></td>
+      <td><img src="./assets/app_logo.png" alt="TechNews" width="100"  /></td>
       <td>TechNews</td>
       <td>Sturtup</td>
       <td><a href="[Emine ÇAKAR LinkedIn URL'si]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
@@ -101,10 +101,11 @@ Aşağıda YENİLİKÇİLER takımının değerli üyelerini ve iletişim bilgil
 
 ---
 
-## Uygulamamız: TechNews - AI-Powered Tech Newsletter & Learning Platform
+##  TechNews - AI-Powered Tech Newsletter & Learning Platform
 
 <p align="center">
-  <img src="https://yzta-2025-grup-92.vercel.app/#" alt="TechNews Uygulama Logosu" width="250">
+  
+  <img src="./assets/Project_logo.png"  style="width: 80%; max-width: 600px; height: auto;">
 </p>
 
 @**Uygulama URL'si:** [TechNews Canlı Uygulama URL'si ](https://yzta-2025-grup-92.vercel.app/#)
@@ -392,8 +393,28 @@ InsightAI, öğrenci ve profesyonellerin teknoloji dünyasındaki güncel geliş
 
 ### 🛠 Teknoloji Kararları
 
-- **Frontend:** React, Tailwind CSS, Vite  
-- **Backend:** FastAPI, PostgreSQL, Docker  
+
+### Teknoloji Yığını (Tech Stack)
+
+**Frontend:**  
+- React (Vite)  
+- Tailwind CSS  
+- Lucide React  
+
+**Backend:**  
+- Python + FastAPI  
+- Gemini AI Studio (gemini-1.5-flash)  
+- RSS Feed parser  
+- SMTP ile otomatik günlük e-posta gönderimi  
+- PostgreSQL veritabanı  
+
+**DevOps ve Yayınlama:**  
+- Docker  
+- GitHub Actions (otomatik e-posta görevleri & cron joblar)  
+- Render (backend)  
+- Vercel (frontend)  
+
+ 
 - **Yapay Zeka:** Google Gemini 1.5 Flash  
 - **UI Tasarımı:** Karanlık tema tercih edildi  
 - Kullanıcı arayüzü ve sistem mimarisi üzerine ilk taslak kararlar alındı.
@@ -466,11 +487,29 @@ InsightAI is a platform developed to address the challenges students and profess
 - Trello was adopted for task management.
 
 ### 🛠 Technology Decisions
+**Frontend:**  
+- React (Vite)  
+- Tailwind CSS  
+- Lucide React  
 
-- **Frontend:** React, Tailwind CSS, Vite  
-- **Backend:** FastAPI, PostgreSQL, Docker  
+**Backend:**  
+- Python + FastAPI  
+- Gemini AI Studio (gemini-1.5-flash)  
+- RSS Feed parser  
+- Automated daily email delivery via SMTP  
+- PostgreSQL database  
+
+**DevOps and Deployment:**  
+- Docker  
+- GitHub Actions (automated email tasks & cron jobs)  
+- Render (backend)  
+- Vercel (frontend)  
+
 - **Artificial Intelligence:** Google Gemini 1.5 Flash  
-- **UI Design:** Dark theme was preferred  
+- **UI Design:** Dark theme preferred  
+- Initial decisions were made regarding user interface and system architecture.  
+
+
 - Initial decisions were made regarding user interface and system architecture.
 
 ### 🧑‍🤝‍🧑 Team Organization
