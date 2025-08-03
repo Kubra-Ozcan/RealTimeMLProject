@@ -26,75 +26,49 @@
 
 Aşağıda YENİLİKÇİLER takımının değerli üyelerini ve iletişim bilgilerini bulabilirsiniz.
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    text-align: center;
-  }
-
-  th, td {
-    border: 1px solid #ddd;
-    padding: 10px;
-  }
-
-  th {
-    background-color: #2c3e50; 
-    color: white; 
-  }
-
-  img {
-    border-radius: 10px;
-    width: 100px;
-    height: 100px;
-  }
-</style>
-
 <table>
   <thead>
     <tr>
-      <th></th>
-      <th>Name  </th>
-      <th>Title</th>
+      <th>Fotoğraf</th>
+      <th>İsim</th>
+      <th>Görev</th>
       <th>LinkedIn</th>
       <th>GitHub</th>
-      <th>Other</th>
+      <th>Diğer</th>
     </tr>
   </thead>
   <tbody>
-    >
     <tr>
-      <td><img src="./assets/fatih_image.jpeg" alt="Furkan ÖZTÜRK" width="100" /></td>
+      <td><img src="./assets/fatih_image.jpeg" alt="Furkan ÖZTÜRK" width="100"/></td>
       <td>Furkan ÖZTÜRK</td>
       <td>Scrum Master</td>
-      <td><a href="https://www.linkedin.com/in/furkan-ozturk06/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
-      <td><a href="[Furkan ÖZTÜRK GitHub URL'si]" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></td>
-      <td><a href="[Furkan ÖZTÜRK Kişisel Web URL'si]" target="_blank"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a></td>
+      <td><a href="https://www.linkedin.com/in/furkan-ozturk06/" target="_blank">LinkedIn</a></td>
+      <td><a href="[Furkan ÖZTÜRK GitHub URL'si]" target="_blank">GitHub</a></td>
+      <td><a href="[Furkan ÖZTÜRK Kişisel Web URL'si]" target="_blank">Website</a></td>
     </tr>
     <tr>
-      <td><img src="./assets/Furkan_image.jpeg" alt="Fatih Emre ERTEKİN" width="100" /></td>
+      <td><img src="./assets/Furkan_image.jpeg" alt="Fatih Emre ERTEKİN" width="100"/></td>
       <td>Fatih Emre ERTEKİN</td>
       <td>Product Owner</td>
-      <td><a href="https://www.linkedin.com/in/fatih-emre-ertekin-199283191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
-      <td><a href="[Fatih Emre ERTEKİN GitHub URL'si]" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></td>
-      <td><a href="[Fatih Emre ERTEKİN Kişisel Web URL'si]" target="_blank"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a></td>
+      <td><a href="https://www.linkedin.com/in/fatih-emre-ertekin-199283191/" target="_blank">LinkedIn</a></td>
+      <td><a href="[Fatih Emre ERTEKİN GitHub URL'si]" target="_blank">GitHub</a></td>
+      <td><a href="[Fatih Emre ERTEKİN Kişisel Web URL'si]" target="_blank">Website</a></td>
     </tr>
     <tr>
-      <td><img src="./assets/Kubra.jpg" alt="Kübra ÖZCAN"  width="100" /></td>
+      <td><img src="./assets/Kubra.jpg" alt="Kübra ÖZCAN" width="100"/></td>
       <td>Kübra ÖZCAN</td>
       <td>Developer</td>
-      <td><a href="https://www.linkedin.com/in/kubra-ozcan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
-      <td><a href="https://github.com/Kubra-Ozcan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></td>
-      <td><a href="https://medium.com/@kubra.ozcan_98680" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Website"></a></td>
+      <td><a href="https://www.linkedin.com/in/kubra-ozcan/" target="_blank">LinkedIn</a></td>
+      <td><a href="https://github.com/Kubra-Ozcan" target="_blank">GitHub</a></td>
+      <td><a href="https://medium.com/@kubra.ozcan_98680" target="_blank">Medium</a></td>
     </tr>
-    </tr>
-      <tr>
-      <td><img src="./assets/app_logo.png" alt="TechNews" width="100"  /></td>
+    <tr>
+      <td><img src="./assets/app_logo.png" alt="TechNews" width="100"/></td>
       <td>TechNews</td>
-      <td>Sturtup</td>
-      <td><a href="[Emine ÇAKAR LinkedIn URL'si]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
-      <td><a href="[Emine ÇAKAR GitHub URL'si]" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></td>
-      <td><a href="[Emine ÇAKAR Kişisel Web URL'si]" target="_blank"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a></td>
+      <td>Startup</td>
+      <td><a href="[Emine ÇAKAR LinkedIn URL'si]" target="_blank">LinkedIn</a></td>
+      <td><a href="[Emine ÇAKAR GitHub URL'si]" target="_blank">GitHub</a></td>
+      <td><a href="[Emine ÇAKAR Kişisel Web URL'si]" target="_blank">Website</a></td>
     </tr>
   </tbody>
 </table>
@@ -1074,5 +1048,6 @@ Comprehensive support options, a streamlined user interface, and a robust backen
   With this sprint, TechNews has transitioned from a concept to a functional, user-ready digital product.  
   Our core mission—facilitating learning, enabling rapid tracking of the latest developments, and simplifying content overload to guide users—has been effectively realized in the application.  
   Comprehensive support options, a streamlined user interface, and a robust backend architecture provide a strong foundation for TechNews’ continued growth and sustainability.
+
 
 
